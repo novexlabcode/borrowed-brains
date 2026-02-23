@@ -1,3 +1,22 @@
+## Available Sparring Partners
+
+### [Paul Graham](./sparring-partners/paul-graham/) 
+Startup thinking, product development, writing, and founder psychology.
+
+- **Test Score:** 99.5% accuracy
+- **Status:** Production Ready
+- **Best for:** Early-stage founders, product decisions, strategic thinking
+
+[View Prompt](./sparring-partners/paul-graham/PROMPT.md) | [See Testing](./sparring-partners/paul-graham/TESTING.md)
+
+---
+
+*More sparring partners coming soon: Jeremy Howard, Andrej Karpathy, Richard Feynman, Alan Watts*
+
+
+
+
+
 # borrowed-brains
 all the files you need to create borrowed-brains
 
